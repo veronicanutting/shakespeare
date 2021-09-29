@@ -24,8 +24,8 @@ Wow, that's a lot of writing, Shakespeare!
 A character named "Portia" appears in 2 plays: _The Merchant of Venice_ and _Julius Caesar._ Shakespeare's Portias have 5,323 lines total, 724 in _Julius Caesar_ and 4,599 in _The Merchant of Venice._
 
 Portia is one of 24 characters in _The Merchant of Venice,_ a play of 20,927 lines. 
-- **The proportion of _The Merchant of Venice_ lines that are Portia's is 22%.**
-- **The proportion of all of Shakespeares lines that are Portia's is 1.03%.**
+- **22% of the lines in _The Merchant of Venice_ are Portia's.**
+- **1.03% of the lines in all of Shakespeares lines are Portia's.**
 
 Check out my code to see more! I've been redirecting the print statements in this script to a file like this:
 `python3 main.py > out.txt`, so you can directly read `out.txt` here in this repo to see my script's output.
