@@ -1,0 +1,606 @@
+helen {'AWW': 3586}
+parolles {'AWW': 2995}
+king {'AWW': 2831, 'LLL': 2359}
+lafew {'AWW': 2219}
+countess {'AWW': 2175, '1H6': 350}
+bertram {'AWW': 2033}
+fool {'AWW': 1671}
+lords_dumaine_1 {'AWW': 1100}
+diana {'AWW': 1024}
+lords_dumaine_2 {'AWW': 837}
+soldiers_interpreter {'AWW': 607}
+widow {'AWW': 435}
+steward {'AWW': 345}
+mariana {'AWW': 172, 'MM': 484}
+gentlemen_3 {'AWW': 125, 'H8': 437}
+duke {'AWW': 124, 'MM': 6533, 'MV': 557, 'TGV': 1529}
+gentlemen_2 {'AWW': 79, '2H6': 10, 'H8': 569, 'MM': 59}
+gentlemen_1 {'AWW': 61, '2H6': 56, 'H8': 703, 'MM': 169}
+epilogue {'AWW': 52, '2H4': 331, 'H8': 123, 'TNK': 165}
+servant {'AWW': 34, 'TNK': 72}
+attendants_king_0_1 {'AWW': 32}
+attendants_king_0_2 {'AWW': 29}
+lords_court_4 {'AWW': 14}
+soldiers_0_1 {'AWW': 14}
+lords_court_2 {'AWW': 13}
+lords_court_1 {'AWW': 11}
+lords_court_3 {'AWW': 8}
+page {'AWW': 7, 'H8': 3}
+soldiers {'AWW': 7}
+rosalind {'AYL': 5697}
+touchstone {'AYL': 2374}
+orlando {'AYL': 2370}
+celia {'AYL': 2106}
+jaques {'AYL': 1769}
+oliver {'AYL': 1164}
+dukesenior {'AYL': 808}
+phoebe {'AYL': 694}
+corin {'AYL': 549}
+silvius {'AYL': 540}
+dukefrederick {'AYL': 529}
+adam {'AYL': 513}
+charles {'AYL': 375, '1H6': 1019}
+lords_frederick_lebeau {'AYL': 371}
+lords_senior_0_1 {'AYL': 359}
+lords_senior_amiens {'AYL': 278}
+servants_1 {'AYL': 213, '1H6': 5, 'MM': 34, 'MV': 35, 'TGV': 9}
+servants_2 {'AYL': 196, '1H6': 4, 'MV': 15}
+audrey {'AYL': 149}
+hymen {'AYL': 134}
+secondbrother {'AYL': 128}
+lords_senior_0_2 {'AYL': 71}
+lords_frederick_0_2 {'AYL': 63}
+william {'AYL': 41}
+lords_senior {'AYL': 39}
+olivermartext {'AYL': 36}
+lords_frederick_0_1 {'AYL': 32}
+dennis {'AYL': 17}
+falstaff {'1H4': 5510, '2H4': 5477}
+henryv {'1H4': 4368, '2H4': 2445, 'H5': 8332}
+hotspur {'1H4': 4326, 'R2': 352}
+henryiv {'1H4': 2555, '2H4': 2281, 'R2': 3117}
+worcester {'1H4': 1421}
+glendower {'1H4': 608}
+poins {'1H4': 546, '2H4': 474}
+vernon {'1H4': 460, '1H6': 237}
+mortimer {'1H4': 444, '1H6': 651}
+ladypercy {'1H4': 419, '2H4': 372}
+mistressquickly {'1H4': 411, '2H4': 1425, 'H5': 360}
+gadshill {'1H4': 343}
+douglas {'1H4': 341}
+blunt {'1H4': 299, 'R3': 67}
+westmoreland {'1H4': 297, '2H4': 851, 'H5': 144}
+archbishop {'1H4': 258, '2H4': 1094, 'R3': 78}
+bardolph {'1H4': 201, '2H4': 310, 'H5': 224}
+travelers_carriers_1 {'1H4': 175}
+northumberland {'1H4': 170, '2H4': 819, '3H6': 244, 'R2': 1104}
+chamberlain {'1H4': 149, 'H8': 1130}
+travelers_carriers_2 {'1H4': 140}
+peto {'1H4': 93, '2H4': 44}
+drawers_francis {'1H4': 83, '2H4': 60}
+bedford {'1H4': 64, '2H4': 812, 'H5': 77, '1H6': 595}
+sheriff {'1H4': 59, '2H6': 34, 'R3': 9}
+sirmichael {'1H4': 53}
+messengers_x {'1H4': 49}
+vintner {'1H4': 33}
+travelers_gentlemen_0_1 {'1H4': 31}
+servants_hotspur_1 {'1H4': 19}
+travelers_gentlemen {'1H4': 12}
+messengers_2 {'1H4': 8, '2H6': 35, '3H6': 8, 'R3': 23}
+messengers_1 {'1H4': 7, '2H4': 33, '2H6': 75, '3H6': 6, 'R3': 33}
+travelers_carriers_x {'1H4': 4}
+travelers_carriers {'1H4': 3}
+ostler {'1H4': 2}
+shallow {'2H4': 1570}
+chiefjustice {'2H4': 1137}
+lordbardolph {'2H4': 643}
+dolltearsheet {'2H4': 638}
+morton {'2H4': 633}
+warwick {'2H4': 573, 'H5': 7, '1H6': 542, '2H6': 1065, '3H6': 3414}
+pistol {'2H4': 553, 'H5': 1118}
+mowbray {'2H4': 434, 'R2': 1057}
+hastings {'2H4': 415, '3H6': 158, 'R3': 1149}
+chorus {'2H4': 297, 'H5': 1668, 'WT': 266}
+davy {'2H4': 276}
+silence {'2H4': 257}
+servants_falstaff_1 {'2H4': 214}
+clarence {'2H4': 170, '3H6': 836, 'R3': 1338}
+gloucester {'2H4': 122, 'H5': 28, '1H6': 1401, '2H6': 2346}
+travers {'2H4': 112}
+bullcalf {'2H4': 109}
+feeble {'2H4': 95}
+mouldy {'2H4': 95}
+servants_chiefjustice_1 {'2H4': 85}
+beadles_0_1 {'2H4': 72}
+drawers_1 {'2H4': 68}
+colevile {'2H4': 64}
+harcourt {'2H4': 64}
+messengers_gower {'2H4': 56}
+officers_fang {'2H4': 53}
+ladynorthumberland {'2H4': 38}
+drawers_will {'2H4': 33}
+porter {'2H4': 28, '1H6': 3, 'H8': 274}
+officers_snare {'2H4': 19}
+grooms_1 {'2H4': 16}
+drawers_x {'2H4': 9}
+shadow {'2H4': 6}
+grooms_2 {'2H4': 5}
+wart {'2H4': 4}
+fluellen {'H5': 2501}
+bishopofcanterbury {'H5': 1652}
+exeter {'H5': 965, '1H6': 444, '3H6': 136}
+constable {'H5': 922}
+dauphin {'H5': 905}
+kingoffrance {'H5': 699}
+boy {'H5': 626, '1H6': 32, 'LLL': 1107, 'MM': 41, 'TNK': 113}
+soldiers_english_williams {'H5': 621}
+burgundy {'H5': 512, '1H6': 334}
+gower {'H5': 507}
+katherine {'H5': 441, 'H8': 2885, 'LLL': 388}
+montjoy {'H5': 399}
+nym {'H5': 386}
+orleans {'H5': 312}
+bishopofely {'H5': 240, 'R3': 47}
+macmorris {'H5': 205}
+queenoffrance {'H5': 188}
+soldiers_english_bates {'H5': 167}
+alice {'H5': 164}
+grandpre {'H5': 137}
+ambassadors_0_1 {'H5': 132}
+cambridge {'H5': 107}
+jamy {'H5': 98}
+soldiers_french_lefer {'H5': 98}
+scroop {'H5': 93, 'R2': 285}
+grey {'H5': 86, 'R3': 134}
+salisbury {'H5': 75, '1H6': 113, '2H6': 723, 'R2': 156}
+bourbon {'H5': 74}
+rambures {'H5': 66}
+brittany {'H5': 65}
+governor {'H5': 56}
+erpingham {'H5': 53}
+messengers_x_2 {'H5': 17, '2H6': 32, '3H6': 162, 'R3': 118, 'TNK': 21}
+york {'H5': 14, '1H6': 1385, '2H6': 2990, '3H6': 1358, 'R2': 2232, 'R3': 404}
+messengers_x_1 {'H5': 12, '2H6': 24, '3H6': 32, 'R3': 61, 'TNK': 329}
+soldiers_english_court {'H5': 11}
+heralds_1 {'H5': 8, 'R2': 48}
+messengers_x_3 {'H5': 7, '2H6': 59, '3H6': 24, 'R3': 7, 'TNK': 6}
+attendants_english {'H5': 1}
+talbot {'1H6': 3109}
+pucelle {'1H6': 1957}
+henryvi {'1H6': 1330, '2H6': 2480, '3H6': 2904, 'R3': 54}
+suffolk {'1H6': 1304, '2H6': 2306, 'H8': 624}
+cardinalbeaufort {'1H6': 727, '2H6': 816}
+lucy {'1H6': 586}
+somerset {'1H6': 513, '2H6': 182, '3H6': 262}
+reignier {'1H6': 444}
+johntalbot {'1H6': 400}
+alanson {'1H6': 359}
+messengers_english_3 {'1H6': 338}
+queenmargaret {'1H6': 254, '2H6': 2503, '3H6': 2246, 'R3': 1751}
+bastard {'1H6': 222}
+general {'1H6': 202}
+shepherd {'1H6': 201, 'WT': 1072}
+basset {'1H6': 191}
+mayor {'1H6': 151}
+mastergunner {'1H6': 138}
+messengers_english_1 {'1H6': 126}
+messengers_french_1 {'1H6': 102}
+servants_gloucester_0_2 {'1H6': 83}
+fastolf {'1H6': 55}
+messengers_english_2 {'1H6': 54}
+messengers_english_x_2 {'1H6': 49}
+officers_0_1 {'1H6': 49, 'WT': 193}
+servants_gloucester_0_1 {'1H6': 40, '2H6': 13}
+woodville {'1H6': 38}
+soldiers_english_1 {'1H6': 34}
+messengers_english_x_1 {'1H6': 33}
+soldiers_french_scout {'1H6': 31}
+soldiers_french_sergeant {'1H6': 31}
+jailers_0_1 {'1H6': 30}
+lawyer {'1H6': 29}
+servants_winchester_0_1 {'1H6': 29}
+watchmen_1 {'1H6': 29, '3H6': 62}
+soldiers_english_captain {'1H6': 22}
+warders_1 {'1H6': 22}
+soldiers_french_pucelle_0_1 {'1H6': 21}
+gargrave {'1H6': 18}
+servants_gloucester {'1H6': 18}
+soldiers_english_somerset_0_1 {'1H6': 16}
+servants_talbot_1 {'1H6': 10}
+watchman {'1H6': 10}
+glansdale {'1H6': 9}
+servants_3 {'1H6': 9}
+warders_2 {'1H6': 9}
+legate {'1H6': 7}
+soldiers_english_0_1 {'1H6': 7}
+cade {'2H6': 2142}
+duchessofgloucester {'2H6': 963, 'R2': 457}
+buckingham {'2H6': 562, 'H8': 1480, 'R3': 2918}
+lieutenant {'2H6': 480, '3H6': 21}
+clifford {'2H6': 468, '3H6': 1092}
+iden {'2H6': 432}
+saye {'2H6': 361}
+youngclifford {'2H6': 346}
+dick {'2H6': 327}
+hume {'2H6': 244}
+thump {'2H6': 197}
+richardiii {'2H6': 195, '3H6': 3174, 'R3': 8833}
+holland {'2H6': 189}
+bolingbroke {'2H6': 181}
+horner {'2H6': 171}
+bevis {'2H6': 168}
+simpcox {'2H6': 167}
+smith {'2H6': 164}
+whitmore {'2H6': 153}
+stafford {'2H6': 112}
+vaux {'2H6': 84, 'H8': 24}
+petitioners_0_1 {'2H6': 82}
+followers_cade_0 {'2H6': 70}
+followers_cade {'2H6': 66}
+scales {'2H6': 64}
+michael {'2H6': 62}
+spirit {'2H6': 61}
+stanley {'2H6': 61, 'R3': 833}
+simpcoxwife {'2H6': 56}
+williamstafford {'2H6': 46}
+messengers_post {'2H6': 45, '3H6': 224}
+petitioners_0_2 {'2H6': 43}
+citizens_london_0_1 {'2H6': 38}
+george {'2H6': 34}
+sawyer {'2H6': 32}
+murderers_0_1 {'2H6': 31}
+citizens_stalbans_0_1 {'2H6': 29}
+jourdain {'2H6': 27}
+neighbors_1 {'2H6': 21}
+citizens {'2H6': 20, 'R3': 1}
+clerk {'2H6': 18}
+heralds_x_1 {'2H6': 17}
+murderers_0_2 {'2H6': 17}
+mayorofstalbans {'2H6': 15}
+neighbors_3 {'2H6': 15}
+prentices_2 {'2H6': 14}
+beadle {'2H6': 12}
+mate {'2H6': 10}
+prentices_1 {'2H6': 10}
+master {'2H6': 9}
+edwardiv {'2H6': 8, '3H6': 3483, 'R3': 524}
+neighbors_2 {'2H6': 8}
+petitioners {'2H6': 4}
+soldiers_1 {'2H6': 4}
+queenelizabeth {'3H6': 594, 'R3': 2122}
+kinglewis {'3H6': 516}
+princeedward {'3H6': 358, 'R3': 44}
+oxford {'3H6': 277, 'R3': 13}
+father {'3H6': 218}
+rutland {'3H6': 196}
+son {'3H6': 190}
+gamekeepers_1 {'3H6': 147}
+gamekeepers_2 {'3H6': 123}
+montgomery {'3H6': 119}
+montague {'3H6': 118}
+westmorland {'3H6': 85}
+watchmen_3 {'3H6': 74}
+ladybona {'3H6': 71}
+rivers {'3H6': 54, 'R3': 403}
+mayorofyork {'3H6': 48}
+watchmen_2 {'3H6': 48}
+messengers_x_4 {'3H6': 46}
+somerville {'3H6': 44}
+norfolk {'3H6': 26, 'H8': 1453, 'R3': 68}
+tutor {'3H6': 24}
+soldiers_york_0_1 {'3H6': 23}
+huntsman {'3H6': 18}
+attendants_edward_1 {'3H6': 16}
+messengers_x_5 {'3H6': 14}
+johnmortimer {'3H6': 10}
+aldermen {'3H6': 5}
+soldiers_montgomery {'3H6': 5}
+soldiers_york {'3H6': 5}
+henryviii {'H8': 3370}
+wolsey {'H8': 3200}
+cranmer {'H8': 1039}
+gardiner {'H8': 665}
+surrey {'H8': 522, 'R2': 75, 'R3': 9}
+oldlady {'H8': 495}
+lovell {'H8': 475, 'R3': 20}
+surveyor {'H8': 449}
+griffith {'H8': 421}
+campeius {'H8': 379}
+anne {'H8': 376}
+servants_porter_1 {'H8': 354}
+sands {'H8': 338}
+cromwell {'H8': 304}
+prologue {'H8': 266, 'TNK': 270}
+chancellor {'H8': 212}
+abergavenny {'H8': 114}
+brandon {'H8': 84}
+ladies_katherine_0_1 {'H8': 70}
+guilford {'H8': 69}
+capuchius {'H8': 65}
+butts {'H8': 59}
+bishopoflincoln {'H8': 52}
+keeper {'H8': 40}
+ladies_katherine_patience {'H8': 35}
+messenger {'H8': 29, 'JC': 24, 'MM': 41, 'MV': 76}
+sergeant {'H8': 28}
+crier {'H8': 24}
+servants_x_1 {'H8': 24, 'WT': 45}
+denny {'H8': 21}
+garter {'H8': 21}
+gentlemen_x {'H8': 19}
+scribe {'H8': 18}
+servants_larder_1 {'H8': 13}
+secretaries_0_1 {'H8': 8}
+usher {'H8': 5}
+brutus {'JC': 5388}
+cassius {'JC': 3708}
+antony {'JC': 2537}
+caesar {'JC': 1142}
+casca {'JC': 1073}
+portia {'JC': 724, 'MV': 4599}
+octavius {'JC': 328}
+decius {'JC': 323}
+soldiers_brutus_messala {'JC': 254}
+soldiers_brutus_titinius {'JC': 238}
+marullus {'JC': 231}
+plebeians_0_2 {'JC': 222}
+plebeians_0_1 {'JC': 217}
+plebeians_0_4 {'JC': 215}
+plebeians_0_3 {'JC': 213}
+flavius {'JC': 207}
+lucius {'JC': 206}
+calphurnia {'JC': 203}
+soldiers_brutus_lucilius {'JC': 197}
+artemidorus {'JC': 145}
+commoners_cobbler {'JC': 145}
+soothsayer {'JC': 131}
+cinna {'JC': 130}
+metellus {'JC': 121}
+pindarus {'JC': 120}
+servants_antony_1 {'JC': 119}
+ligarius {'JC': 111}
+cinnapoet {'JC': 104}
+plebeians {'JC': 89}
+soldiers_brutus_clitus {'JC': 70}
+cicero {'JC': 62}
+servants_octavius_1 {'JC': 62}
+trebonius {'JC': 60}
+soldiers_brutus_strato {'JC': 59}
+poet {'JC': 54}
+soldiers_brutus_cato {'JC': 54}
+servants_caesar_1 {'JC': 31}
+soldiers_brutus_varro {'JC': 31}
+soldiers_antony_0_1 {'JC': 26}
+lepidus {'JC': 22}
+soldiers_brutus_volumnius {'JC': 17}
+soldiers_brutus_claudius {'JC': 16}
+soldiers_brutus_dardanus {'JC': 15}
+popilius {'JC': 10}
+soldiers_antony_0_2 {'JC': 7}
+publius {'JC': 6}
+commoners_carpenter {'JC': 4}
+soldiers_brutus_0_1 {'JC': 1}
+soldiers_brutus_0_2 {'JC': 1}
+soldiers_brutus_0_3 {'JC': 1}
+berowne {'LLL': 4594}
+princess {'LLL': 2179}
+boyet {'LLL': 1765}
+armado {'LLL': 1733}
+costard {'LLL': 1533}
+rosaline {'LLL': 1333}
+holofernes {'LLL': 1302}
+dumaine {'LLL': 544}
+nathaniel {'LLL': 520}
+longaville {'LLL': 518}
+maria {'LLL': 295, 'TN': 1216}
+dull {'LLL': 236}
+winter {'LLL': 105}
+jaquenetta {'LLL': 100}
+spring {'LLL': 96}
+forester {'LLL': 45}
+marcade {'LLL': 28}
+lords_0 {'LLL': 7}
+isabella {'MM': 3018}
+angelo {'MM': 2379}
+lucio {'MM': 2318}
+escalus {'MM': 1418}
+pompey {'MM': 1292}
+provost {'MM': 1125}
+claudio {'MM': 798}
+elbow {'MM': 600}
+friarpeter {'MM': 273}
+bawd {'MM': 226}
+abhorson {'MM': 141}
+barnardine {'MM': 112}
+nun {'MM': 76}
+juliet {'MM': 63}
+froth {'MM': 58}
+friarthomas {'MM': 35}
+justice {'MM': 10}
+shylock {'MV': 2881}
+bassanio {'MV': 2593}
+lanceletgobbo {'MV': 1452}
+antonio {'MV': 1434, 'TN': 803, 'TGV': 262}
+gratiano {'MV': 1373}
+lorenzo {'MV': 1329}
+morocco {'MV': 800}
+salarino {'MV': 701}
+nerissa {'MV': 695}
+jessica {'MV': 660}
+solanio {'MV': 544}
+arragon {'MV': 496}
+oldgobbo {'MV': 292}
+salerio {'MV': 174}
+tubal {'MV': 96}
+attendants_portia_stephano {'MV': 54}
+musicians {'MV': 53}
+attendants_bassanio_leonardo {'MV': 11}
+attendants_portia_balthazar {'MV': 7}
+bottom {'MND': 2040}
+helena {'MND': 1816}
+theseus {'MND': 1724, 'TNK': 2378}
+oberon {'MND': 1607}
+lysander {'MND': 1395}
+robingoodfellow {'MND': 1370}
+hermia {'MND': 1284}
+titania {'MND': 1080}
+demetrius {'MND': 1066}
+quince {'MND': 962}
+flute {'MND': 355}
+egeus {'MND': 296}
+hippolyta {'MND': 250, 'TNK': 711}
+fairies_titania_1 {'MND': 187}
+philostrate {'MND': 183}
+snout {'MND': 165}
+snug {'MND': 125}
+fairies_titania_0_1 {'MND': 104}
+starveling {'MND': 94}
+fairies_titania_0_2 {'MND': 70}
+fairies_titania {'MND': 60}
+fairies_titania_mustardseed {'MND': 12}
+fairies_titania_cobweb {'MND': 9}
+fairies_titania_peaseblossom {'MND': 9}
+fairies_titania_mote {'MND': 7}
+richardii {'R2': 5986}
+gaunt {'R2': 1515}
+queen {'R2': 910}
+duchessofyork {'R2': 734, 'R3': 1093}
+aumerle {'R2': 676}
+bishopofcarlisle {'R2': 485}
+gardener {'R2': 409}
+bushy {'R2': 272}
+green {'R2': 243}
+fitzwater {'R2': 218}
+lordmarshal {'R2': 202}
+exton {'R2': 178}
+ross {'R2': 178}
+bagot {'R2': 171}
+welshcaptain {'R2': 121}
+willoughby {'R2': 102}
+groom {'R2': 91}
+abbotofwestminster {'R2': 71}
+servants_gardener_1 {'R2': 70}
+berkeley {'R2': 69}
+heralds_2 {'R2': 48}
+lords_1 {'R2': 43}
+servants_york_1 {'R2': 43}
+jailer {'R2': 38, 'R3': 68, 'TNK': 750, 'WT': 72}
+ladies_0_1 {'R2': 27, 'WT': 49}
+servants_exton_0_1 {'R2': 7}
+ladyanne {'R3': 1242}
+henryvii {'R3': 1066}
+murderers_1 {'R3': 463}
+murderers_2 {'R3': 436}
+catesby {'R3': 435}
+edwardv {'R3': 411}
+tyrrel {'R3': 268}
+citizens_3 {'R3': 230}
+brakenbury {'R3': 225}
+ratcliffe {'R3': 219}
+clarencesboy {'R3': 181}
+dorset {'R3': 122}
+scrivener {'R3': 116}
+mayoroflondon {'R3': 115}
+citizens_2 {'R3': 104}
+messengers_4 {'R3': 78}
+cardinal {'R3': 74}
+citizens_1 {'R3': 65}
+clarencesdaughter {'R3': 58}
+sirchristopher {'R3': 58}
+messengers_3 {'R3': 47}
+vaughan {'R3': 39}
+attendants_0_1 {'R3': 36, 'WT': 261}
+pursuivant {'R3': 20}
+sirjohn {'R3': 16}
+attendants_richmond_0_1 {'R3': 14}
+gentlemen_0_1 {'R3': 13}
+herbert {'R3': 10}
+attendants_richmond {'R3': 3}
+bishops {'R3': 1}
+tobybelch {'TN': 2694}
+viola {'TN': 2564}
+feste {'TN': 2443}
+olivia {'TN': 2311}
+malvolio {'TN': 2224}
+orsino {'TN': 1617}
+andrewaguecheek {'TN': 1171}
+sebastian {'TN': 1005}
+fabian {'TN': 862}
+captain {'TN': 239}
+attendants_orsino_valentine {'TN': 102}
+officers_1 {'TN': 100}
+priest {'TN': 57}
+attendants_orsino_curio {'TN': 41}
+attendants_olivia_1 {'TN': 21}
+officers_2 {'TN': 19}
+proteus {'TGV': 3350}
+valentine {'TGV': 2821}
+julia {'TGV': 2430}
+lance {'TGV': 1852}
+speed {'TGV': 1456}
+sylvia {'TGV': 1138}
+lucetta {'TGV': 556}
+thurio {'TGV': 372}
+pantino {'TGV': 311}
+outlaws_3 {'TGV': 210}
+eglamour {'TGV': 192}
+outlaws_1 {'TGV': 159}
+host {'TGV': 158}
+outlaws_2 {'TGV': 105}
+palamon {'TNK': 4252}
+arcite {'TNK': 3671}
+emilia {'TNK': 2713}
+daughter {'TNK': 2675}
+pirithous {'TNK': 881}
+wooer {'TNK': 776}
+schoolmaster {'TNK': 750}
+doctor {'TNK': 661}
+queens_1 {'TNK': 520}
+queens_2 {'TNK': 342}
+queens_3 {'TNK': 323}
+countrymen_0_2 {'TNK': 235}
+countrymen_0_3 {'TNK': 162}
+friends_1 {'TNK': 152}
+friends_2 {'TNK': 147}
+countrymen_0_1 {'TNK': 105}
+countrymen_0_4 {'TNK': 104}
+valerius {'TNK': 79}
+woman {'TNK': 67}
+brother {'TNK': 65}
+herald {'TNK': 64}
+knights_palamon_0_1 {'TNK': 44}
+knights_palamon_0_2 {'TNK': 27}
+others {'TNK': 20}
+attendants_1 {'TNK': 18, 'WT': 221}
+knights_palamon_0_3 {'TNK': 10}
+taborer {'TNK': 7}
+countrywomen_0_1 {'TNK': 4}
+knights_palamon {'TNK': 4}
+countrymen_0_5 {'TNK': 2}
+leontes {'WT': 4903}
+autolycus {'WT': 2395}
+paulina {'WT': 2390}
+camillo {'WT': 2094}
+polixenes {'WT': 1960}
+shepherdsson {'WT': 1597}
+hermione {'WT': 1584}
+florizell {'WT': 1391}
+perdita {'WT': 898}
+antigonus {'WT': 785}
+attendants_3 {'WT': 594}
+servants_shepherd_1 {'WT': 315}
+dion {'WT': 190}
+archidamus {'WT': 176}
+attendants_x {'WT': 172}
+mamillius {'WT': 151}
+ladies_emilia {'WT': 142}
+mopsa {'WT': 142}
+cleomenes {'WT': 140}
+attendants_2 {'WT': 126}
+servants_x_3 {'WT': 119}
+sailor {'WT': 80}
+dorcas {'WT': 67}
+servants_x_2 {'WT': 31}
+ladies_0_2 {'WT': 21}
+attendants {'WT': 19}
+servants_0 {'WT': 12}
