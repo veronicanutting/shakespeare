@@ -4,7 +4,7 @@ from helpers import *
 ## This script scrapes the HTML pages retrieved from the API and 
 ## analyzes character metrics.
 
-plays = getPlays('codes.txt')
+plays = getPlays('data/codes.txt')
 
 # Seperately store play codes for API
 codes = plays.keys()
@@ -36,5 +36,5 @@ print("Proportion of Portia's lines in all of Shakespeare:",proportion_all)
 
 
 # Write data to file
-exportCharacters('characters.txt',characters)
+#exportCharacters('characters.txt',characters)
 
