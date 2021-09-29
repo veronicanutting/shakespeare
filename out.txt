@@ -1,0 +1,41 @@
+Number of plays for analysis:  38
+Number of characters for analysis:  773
+Number of lines for analysis:  445443 
+
+Portia
+Play count 2
+Total lines 5323
+Lines in Julius Caesar 724
+Lines in The Merchant of Venice 4599
+
+The Merchant of Venice
+Lines by character
+duke 557
+servants_1 35
+servants_2 15
+messenger 76
+portia 4599
+shylock 2881
+bassanio 2593
+lanceletgobbo 1452
+antonio 1434
+gratiano 1373
+lorenzo 1329
+morocco 800
+salarino 701
+nerissa 695
+jessica 660
+solanio 544
+arragon 496
+oldgobbo 292
+salerio 174
+tubal 96
+attendants_portia_stephano 54
+musicians 53
+attendants_bassanio_leonardo 11
+attendants_portia_balthazar 7
+
+Number of characters in MV 24
+Number of lines in MV 20927
+Proportion of Portia's lines in the Merchant of Venice: 22%
+Proportion of Portia's lines in all of Shakespeare: 1.03%
